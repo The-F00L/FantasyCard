@@ -1,0 +1,11 @@
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\bin\Debug\netcoreapp2.1\Fantasycard.deps.json
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\bin\Debug\netcoreapp2.1\Fantasycard.runtimeconfig.json
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\bin\Debug\netcoreapp2.1\Fantasycard.runtimeconfig.dev.json
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\bin\Debug\netcoreapp2.1\Fantasycard.dll
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\bin\Debug\netcoreapp2.1\Fantasycard.pdb
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\obj\Debug\netcoreapp2.1\Fantasycard.csprojAssemblyReference.cache
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\obj\Debug\netcoreapp2.1\Fantasycard.csproj.CoreCompileInputs.cache
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\obj\Debug\netcoreapp2.1\Fantasycard.AssemblyInfoInputs.cache
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\obj\Debug\netcoreapp2.1\Fantasycard.AssemblyInfo.cs
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\obj\Debug\netcoreapp2.1\Fantasycard.dll
+C:\Users\anone\source\repos\Fantasycard\Fantasycard\obj\Debug\netcoreapp2.1\Fantasycard.pdb
